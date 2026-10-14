@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.log
+logs/*
+results/*
+!results/.gitkeep
+cases/*
+!cases/README.md
+*.o
+*.out
+core
+.DS_Store
+.vscode/
