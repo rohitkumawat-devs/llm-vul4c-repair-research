@@ -15,3 +15,6 @@ cases/*
 core
 .DS_Store
 .vscode/
+
+data/*
+!data/.gitkeep
